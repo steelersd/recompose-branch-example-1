@@ -1,16 +1,15 @@
 {
-  "name": "recompose-branch",
+  "name": "recompose-branch-example-1",
   "version": "1.0.0",
-  "description":
-    "Recompose 'branch' example from 'Top 5 Recompose HOCs'\n\nhttps://medium.com/@abhiaiyer/top-5-recompose-hocs-1a4c9cc4566",
+  "description": "Recompose 'branch' example from 'Top 5 Recompose HOCs'\n\nhttps://medium.com/@abhiaiyer/top-5-recompose-hocs-1a4c9cc4566",
   "keywords": [],
   "homepage": "https://codesandbox.io/s/new",
   "main": "src/index.js",
   "dependencies": {
-    "react": "16.2.0",
-    "react-dom": "16.2.0",
-    "react-scripts": "1.1.0",
-    "recompose": "0.26.0"
+    "react": "16.4.2",
+    "react-dom": "16.4.2",
+    "react-scripts": "1.1.5",
+    "recompose": "0.30.0"
   },
   "devDependencies": {},
   "scripts": {
